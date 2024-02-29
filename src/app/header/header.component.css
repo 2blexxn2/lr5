@@ -1,0 +1,12 @@
+
+.h-56 {
+  height: 60rem/* 224px */;
+}
+.w-full{
+	width: 80%;
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+}

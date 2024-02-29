@@ -1,0 +1,23 @@
+.center{
+	padding-top: 100px;
+	text-align: center;
+    color: aliceblue;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+	}
+.div{
+	background-color: rgba(65, 59, 59, 0.205);
+	backdrop-filter: blur(50px);
+}
+
+.image{
+	width: 200px;
+  height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

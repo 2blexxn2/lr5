@@ -1,0 +1,9 @@
+button{
+	color: aliceblue;
+	background-color: rgb(131, 31, 31);
+
+}
+.navigation{
+	display: flex;
+	justify-content: space-around;
+}
